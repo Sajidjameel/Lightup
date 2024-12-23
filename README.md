@@ -6,7 +6,7 @@ The redesigned LightUp website offers streamlined navigation and improved produc
 
 ## 💡 Project Overview
 
-The **LightUp** website is a specialized eCommerce platform offering a wide range of **LED commercial lighting solutions**. Built on the **BigCommerce** platform, the redesigned site provides customers with an enhanced shopping experience, from streamlined navigation to improved product categories. This site allows customers to shop for high-quality LED lighting products like Flat Panels, High Bays, and Solar Lighting while ensuring a smooth, secure, and optimized experience across all devices.
+The **LightUp** website is a specialized eCommerce platform offering a wide range of **LED commercial lighting solutions**. Built on the **BigCommerce** platform, the redesigned site provides customers with an enhanced shopping experience, from streamlined navigation to improved product categories. This site allows customers to shop for high-quality LED lighting products like Flat Panels, High Bays, and Solar Lighting while ensuring a smooth, secure and optimized experience across all devices.
 
 This project caters to both businesses and individual customers, integrating essential eCommerce functionality such as advanced filtering, secure checkout, and mobile responsiveness to create a fast, user-friendly shopping environment.
 
